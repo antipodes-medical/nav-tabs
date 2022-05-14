@@ -1,6 +1,6 @@
 {
-  "name": "@antipodes-medical/NOM-DU-PACKAGE",
-  "version": "VERSION-DU-PACKAGE",
+  "name": "@antipodes-medical/nav-tabs",
+  "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antipodes-medical/NOM-DU-PACKAGE.git"
+    "url": "git+https://github.com/antipodes-medical/nav-tabs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/antipodes-medical/NOM-DU-PACKAGE/issues"
+    "url": "https://github.com/antipodes-medical/nav-tabs/issues"
   },
-  "homepage": "https://github.com/antipodes-medical/NOM-DU-PACKAGE#readme",
+  "homepage": "https://github.com/antipodes-medical/nav-tabs#readme",
   "description": "",
   "devDependencies": {
     "@antipodes-medical/eslint-config-antipodes": "^1.0.5"
