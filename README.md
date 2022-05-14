@@ -3,11 +3,11 @@
 ## Installation
 
 ```bash
-yarn add @antipodes-medical/back-to-top
+yarn add @antipodes-medical/nav-tabs
 ```
 
 ```javascript
-import '@antipodes-medical/back-to-top';
+import '@antipodes-medical/nav-tabs';
 ```
 
 ## Utilisation
